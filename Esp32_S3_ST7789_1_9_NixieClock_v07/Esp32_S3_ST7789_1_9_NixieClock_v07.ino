@@ -27,8 +27,6 @@ Data type uint16_t
 PROGMEM yes
 */
 
-
-
 /*
 Version Management
 
@@ -88,6 +86,8 @@ TFT_eSprite ts[11] = { TFT_eSprite(&tft), TFT_eSprite(&tft), TFT_eSprite(&tft), 
 #define DISPLAY_BRIGHTNESS 30
 #define TFT_BACKLITE 38
 
+#define TFT_POWER 15
+
 #define BOOT_BUTTON 0
 #define KEY_BUTTON 14
 
@@ -128,6 +128,12 @@ void setup() {
     Serial.print(".");
   }
   Serial.println("\nWiFi connected");
+
+  // When the device is powered by USB the display is set ON by default,
+  // but when powering the device by a battery you need to set the pin to HIGH
+  // or the display stays dark
+  pinMode(TFT_POWER, OUTPUT);
+  digitalWrite(TFT_POWER, HIGH);
 
   // initial setup of display unit
   tft.init();  // initialise the display unit
