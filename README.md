@@ -32,7 +32,7 @@ QWIIC Connector seen from back side from left to right:
 Battery Voltage measurement: GPIO  4
 ````
 
-![Image 1](./images/esp32-s3_st7789_02_600w.png)
+![Image 2](./images/esp32-s3_st7789_02_600w.png)
 
 ### Nixie-style clock on the ESP32-S3 1,9 inch TFT display S/7789 170 x 320 pixel
 
@@ -41,6 +41,12 @@ Battery Voltage measurement: GPIO  4
 ### Battery voltage measurement
 
 - Sketch: **[Esp32_S3_ST7789_1_9_BatteryMeasurement_v01](./Esp32_S3_ST7789_1_9_BatteryMeasurement_v01)** folder
+
+Connect the battery with this polarity:
+
+![Image 3](./images/esp32-s3_st7789_03_500w.png)
+
+![Image 4](./images/esp32-s3_st7789_04_500w.png)
 
 ## Development Environment (Arduino)
 ````plaintext
