@@ -34,6 +34,14 @@ Battery Voltage measurement: GPIO  4
 
 ![Image 1](./images/esp32-s3_st7789_02_600w.png)
 
+### Nixie-style clock on the ESP32-S3 1,9 inch TFT display S/7789 170 x 320 pixel
+
+- Nixie sketch: **[Esp32_S3_ST7789_1_9_NixieClock_v07](./Esp32_S3_ST7789_1_9_NixieClock_v07)** folder
+
+### Battery voltage measurement
+
+- Sketch: **[Esp32_S3_ST7789_1_9_BatteryMeasurement_v01](./Esp32_S3_ST7789_1_9_BatteryMeasurement_v01)** folder
+
 ## Development Environment (Arduino)
 ````plaintext
 Arduino IDE Version 2.3.8 (Windows)
