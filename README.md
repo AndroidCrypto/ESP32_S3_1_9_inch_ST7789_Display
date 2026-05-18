@@ -2,7 +2,9 @@
 
 By chance, I was able to figure out the correct pin assignments for the TFT display on the ESP32-S3 development board and use them to create a Nixie-style clock.
 
-This repository accompanies the article "**How do I find the correct connection pins for an ESP32-S3 development board with an attached TFT display (ST7789)?**" published here: <soon>
+This repository accompanies the article "**How do I find the correct connection pins for an ESP32-S3 development board with an attached TFT display (ST7789)?**" published here: https://medium.com/@androidcrypto/how-do-i-find-the-correct-connection-pins-for-an-esp32-s3-development-board-with-an-attached-tft-eb4bbbbac95b
+
+![Image 1](./images/esp32-s3_st7789_01_500w.png)
 
 ### Pin Assignments
 
@@ -29,6 +31,8 @@ QWIIC Connector seen from back side from left to right:
 -= Not tested =-
 Battery Voltage measurement: GPIO  4
 ````
+
+![Image 1](./images/esp32-s3_st7789_02_600w.png)
 
 ## Development Environment (Arduino)
 ````plaintext
