@@ -11,6 +11,7 @@ This repository accompanies the article "**How do I find the correct connection 
 ````plaintext
 TFT Display:
 TFT-Backlight: GPIO 38 (HIGH = ON)
+TFT-Power    : GPIO 15 (HIGH = ON)
 TFT-CS       : GPIO  6
 TFT-MOSI     : GPIO  9 // = SDA
 TFT-SCLK     : GPIO  8   
@@ -28,7 +29,6 @@ QWIIC Connector seen from back side from left to right:
 3 GPIO 43 (labled U0TX)
 4 GPIO 44 (labled U0RX)
 
--= Not tested =-
 Battery Voltage measurement: GPIO  4
 ````
 
