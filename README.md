@@ -2,7 +2,9 @@
 
 By chance, I was able to figure out the correct pin assignments for the TFT display on the ESP32-S3 development board and use them to create a Nixie-style clock.
 
-This repository accompanies the article "**How do I find the correct connection pins for an ESP32-S3 development board with an attached TFT display (ST7789)?**" published here: https://medium.com/@androidcrypto/how-do-i-find-the-correct-connection-pins-for-an-esp32-s3-development-board-with-an-attached-tft-eb4bbbbac95b
+This repository accompanies the articles "**How do I find the correct connection pins for an ESP32-S3 development board with an attached TFT display (ST7789)?**" published here: https://medium.com/@androidcrypto/how-do-i-find-the-correct-connection-pins-for-an-esp32-s3-development-board-with-an-attached-tft-eb4bbbbac95b
+
+and "**Create a Stylish Flip Clock on an ESP32-S3 Development Board with a 1.9-inch TFT Display**": https://medium.com/@androidcrypto/create-a-stylish-flip-clock-on-an-esp32-s3-development-board-with-a-1-9-inch-tft-display-47b0496e4fcf
 
 ![Image 1](./images/esp32-s3_st7789_01_500w.png)
 
