@@ -34,9 +34,15 @@ Battery Voltage measurement: GPIO  4
 
 ![Image 2](./images/esp32-s3_st7789_02_600w.png)
 
-### Nixie-style clock on the ESP32-S3 1,9 inch TFT display S/7789 170 x 320 pixel
+### Nixie-style clock on the ESP32-S3 1,9 inch TFT display ST7789 170 x 320 pixel
 
 - Nixie sketch: **[Esp32_S3_ST7789_1_9_NixieClock_v07](./Esp32_S3_ST7789_1_9_NixieClock_v07)** folder
+
+### Flip-style clock clock on the ESP32-S3 1,9 inch TFT display ST7789 170 x 320 pixel
+
+- Flip clock sketch: **[Esp32_S3_LovyanGFX_1_9_ST7789_FlipClock_v05](./Esp32_S3_LovyanGFX_1_9_ST7789_FlipClock_v05)** folder
+
+![Image 5](./images/esp32-s3_st7789_05_600w.png)
 
 ### Battery voltage measurement
 
