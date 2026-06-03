@@ -58,7 +58,7 @@ Connect the battery with this polarity:
 
 ## Nixie-style clock with Web BLE configuration interface
 
-These two sketches accompany the tutorial "**Upgrade your ESP32-S3 Nixie-style clock with a Web BLE interface**," published here: xxx.
+These two sketches accompany the tutorial "**Upgrade your ESP32-S3 Nixie-style clock with a Web BLE interface**," published here: https://medium.com/@androidcrypto/upgrade-your-esp32-s3-nixie-style-clock-with-a-web-ble-interface-06fde0070d9c.
 You can access the Web BLE page using a Chrome or Edge browser (on Android), or—on iOS—via a Web BLE-compatible app: https://androidcrypto.github.io/WebBle1/wifi_posix_04.html
 
 ### Nixie-style clock main program ("...ota_0")
