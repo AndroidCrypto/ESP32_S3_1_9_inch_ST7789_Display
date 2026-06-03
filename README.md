@@ -63,11 +63,11 @@ You can access the Web BLE page using a Chrome or Edge browser (on Android), orâ
 
 ### Nixie-style clock main program ("...ota_0")
 
-**[Esp32_S3_ST7789_1_9_NixieClock_v07](./Esp32_S3_ST7789_1_9_NixieClock_v07)** folder
+**[Esp32_S3_ST7789_1_9_NixieClock_WebBle_OTA_0_v13](./Esp32_S3_ST7789_1_9_NixieClock_WebBle_OTA_0_v13)** folder
 
 ### Nixie-style clock Web BLE program ("...ota_1")
 
-**[Esp32_S3_ST7789_1_9_NixieClock_v07](./Esp32_S3_ST7789_1_9_NixieClock_v07)** folder
+**[Esp32_S3_ST7789_1_9_NixieClock_WebBle_OTA_1_v13](./Esp32_S3_ST7789_1_9_NixieClock_WebBle_OTA_1_v13)** folder
 
 ## Development Environment (Arduino)
 ````plaintext
